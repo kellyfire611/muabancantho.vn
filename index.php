@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Mới thêm GITHUB Repository</h1>
+    <h1>Mới thêm <span style="color: red;">GITHUB</span> Repository</h1>
 </body>
 </html>
